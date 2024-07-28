@@ -1,0 +1,5 @@
+Sou aluno de Sistemas de Informação na Universidade Federal de Goiás e tenho bastante interesse na área de segurança da informação, principalmente a parte de segurança ofensiva. No momento, busco um estágio na área, com o objetivo de adquirir experiência e aprofundar meu conhecimento sobre cibersegurança.
+
+Atualmente estou estudando para tirar a minha primeira certificação na área, o Certified Penetration Testing Specialist (HTB CPTS), garantido pela plataforma Hack the Box. Para mais, também estou completando um curso especificado em vulnerabilidades em aplicações web da PatoAcademy, chamado Do Bug ao Bounty.
+
+Possuo experiência e conhecimentos em programação, em linguagens como C99 e Java, adquiridos por meio de disciplinas acadêmicas. Além disso, também possuo experiência em Capture the Flags (CTFs) em plataformas como Hack The Box, TryHackMe e PortSwigger, assim como resolvi algumas máquinas e laboratórios específicos para estudo e aprofundamento dos conhecimentos na área nesses ambientes.
